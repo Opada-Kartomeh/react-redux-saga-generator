@@ -1,0 +1,20 @@
+{
+  "name": "react-redux-saga-generator",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "prompt-sync": "^4.2.0",
+    "prompt-sync-history": "^1.0.1",
+    "prettier": "2.6.1"
+  },
+  "bin": {
+    "genRedux": "./index.js"
+  }
+}
