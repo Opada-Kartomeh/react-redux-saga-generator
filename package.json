@@ -20,5 +20,16 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Opada-Kartomeh/react-redux-saga-generator"
-  }
+  },
+  "keywords": [
+    "react js",
+    "redux",
+    "redux-saga",
+    "code generator",
+    "dynamic redux",
+    "redux generator",
+    "code generation",
+    "genRedux",
+    "react-redux-generation"
+  ]
 }
