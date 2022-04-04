@@ -2,7 +2,7 @@
 
 > Command-Line package to make code generation for your redux CRUD files (actionTypes,action,reducer,saga)
 
-[![NPM](https://img.shields.io/npm/v/react-handling.svg)](https://www.npmjs.com/package/react-handling) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/react-redux-saga-generator.svg)](https://www.npmjs.com/package/react-redux-saga-generator) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
